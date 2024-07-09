@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/paulo/dev/csharp/CleanArq/CleanArq.Api/CleanArq.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/paulo/dev/csharp/CleanArq/CleanArq.Api/CleanArq.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Api/CleanArq.Api.csproj",
+        "projectName": "CleanArq.Api",
+        "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Api/CleanArq.Api.csproj",
+        "packagesPath": "/Users/paulo/.nuget/packages/",
+        "outputPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/CleanArq.Application.csproj": {
+                "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/CleanArq.Application.csproj"
+              },
+              "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj": {
+                "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj"
+              },
+              "/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/CleanArq.Infrastructure.csproj": {
+                "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/CleanArq.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/CleanArq.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/CleanArq.Application.csproj",
+        "projectName": "CleanArq.Application",
+        "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/CleanArq.Application.csproj",
+        "packagesPath": "/Users/paulo/.nuget/packages/",
+        "outputPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj": {
+                "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj",
+        "projectName": "CleanArq.Domain",
+        "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj",
+        "packagesPath": "/Users/paulo/.nuget/packages/",
+        "outputPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/CleanArq.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/CleanArq.Infrastructure.csproj",
+        "projectName": "CleanArq.Infrastructure",
+        "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/CleanArq.Infrastructure.csproj",
+        "packagesPath": "/Users/paulo/.nuget/packages/",
+        "outputPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj": {
+                "projectPath": "/Users/paulo/dev/csharp/CleanArq/CleanArq.Domain/CleanArq.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

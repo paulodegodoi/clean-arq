@@ -1,0 +1,15 @@
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/bin/Debug/net6.0/CleanArq.Infrastructure.deps.json
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/bin/Debug/net6.0/CleanArq.Infrastructure.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/bin/Debug/net6.0/CleanArq.Infrastructure.pdb
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/bin/Debug/net6.0/CleanArq.Domain.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/bin/Debug/net6.0/CleanArq.Domain.pdb
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.Infrastructure.csproj.AssemblyReference.cache
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.Infrastructure.AssemblyInfoInputs.cache
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.Infrastructure.AssemblyInfo.cs
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.FBF3695F.Up2Date
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.Infrastructure.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/refint/CleanArq.Infrastructure.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/CleanArq.Infrastructure.pdb
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Infrastructure/obj/Debug/net6.0/ref/CleanArq.Infrastructure.dll

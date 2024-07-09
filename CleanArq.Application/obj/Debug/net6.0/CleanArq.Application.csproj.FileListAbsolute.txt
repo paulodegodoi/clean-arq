@@ -1,0 +1,15 @@
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/bin/Debug/net6.0/CleanArq.Application.deps.json
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/bin/Debug/net6.0/CleanArq.Application.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/bin/Debug/net6.0/CleanArq.Application.pdb
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/bin/Debug/net6.0/CleanArq.Domain.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/bin/Debug/net6.0/CleanArq.Domain.pdb
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.Application.csproj.AssemblyReference.cache
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.Application.AssemblyInfoInputs.cache
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.Application.AssemblyInfo.cs
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.Application.csproj.CoreCompileInputs.cache
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.2A3937AD.Up2Date
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.Application.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/refint/CleanArq.Application.dll
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/CleanArq.Application.pdb
+/Users/paulo/dev/csharp/CleanArq/CleanArq.Application/obj/Debug/net6.0/ref/CleanArq.Application.dll
